@@ -1,4 +1,4 @@
-#Sistema de Estimativa de Probabilidade de Dengue com Google Generative AI#
+Sistema de Estimativa de Probabilidade de Dengue com Google Generative AI
 
 Este projeto utiliza a API do Google Generative AI para estimar a probabilidade de um usuário ter dengue com base nos sintomas relatados. Observação: Este sistema é apenas para fins informativos e educacionais. Ele não substitui o diagnóstico médico profissional.
 
